@@ -60,27 +60,27 @@
     <ul>
         <li><strong>Monthly Clicks vs. CTR (Click-Through Rate):</strong>  
             <ul>
-                <li>Bar and line charts track <strong>click performance</strong> alongside CTR from <strong>March to November</strong>.</li>
+                <li>Bar and line charts track <strong>click performance</strong> and CTR from <strong>March to November</strong>.</li>
                 <li><strong>October</strong> saw the highest click count (29K) and a <strong>CTR peak at 1.36%</strong>, indicating effective ad placements.</li>
             </ul>
         </li>
         <li><strong>Monthly Clicks vs. CPC (Cost per Click):</strong>  
             <ul>
-                <li>The chart reveals fluctuations in click volume and cost per click (CPC), with <strong>September recording the highest cost per click (£0.97)</strong>, reflecting increased competition or higher bids during peak campaign periods.</li>
+                <li>The chart reveals fluctuations in click volume and CPC, with <strong>September recording the highest CPC (£0.97)</strong>, reflecting increased competition or higher bids during peak campaign periods.</li>
             </ul>
         </li>
     </ul>
 
   <h4>Location-Based ROI</h4>
     <ul>
-        <li><strong>Return per Conversion vs. Return per Click vs. ROI (Bar and Line Chart):</strong>  
+        <li><strong>Return per Conversion vs. Return per Click vs. ROI (Bar and Line Chart)</strong>  
             <ul>
                 <li>Performance varies across locations:</li>
                 <li><strong>Manchester:</strong> Achieved the highest <strong>Return per Conversion (45)</strong> and overall ROI.</li>
-                <li><strong>Birmingham and London:</strong> Followed closely in performance, with slight variations in clicks and spend efficiency.</li>
+                <li><strong>Birmingham and London:</strong> Followed closely in performance, with slight variations in clicks and spending efficiency.</li>
             </ul>
         </li>
-        <li><strong>Channel Summary Table by Location:</strong>  
+        <li><strong>Channel Summary Table by Location</strong>  
             <ul>
                 <li><strong>Best ROI:</strong> Pinterest in Birmingham with an ROI of 33.83.</li>
                 <li><strong>Top Sales Location:</strong> Manchester on Instagram (£237.38K).</li>
