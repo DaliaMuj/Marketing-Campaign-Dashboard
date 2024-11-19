@@ -22,7 +22,7 @@
 
   <h2>📊 Dashboard Details</h2>
     <h3>1. Summary Dashboard</h3>
-    <img src="Summary.png" alt="Summary Report">
+    <img src="1. Summary.png" alt="Summary Report">
     <p>The summary page highlights top-line metrics that summarize campaign performance:</p>
 
   <h4>Key Performance Indicators (KPIs)</h4>
