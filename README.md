@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <h1>Marketing Campaign Analysis Dashboard</h1>
+    <h1> 📈 Marketing Campaign Analysis Dashboard</h1>
     <p>
       This <strong>Marketing Campaign Analysis Dashboard</strong> is a visually engaging and comprehensive report created in <strong>Power BI</strong>, based on a dataset from <strong>Kaggle</strong>. 
       The dashboard demonstrates my expertise in <strong>data analysis</strong> and <strong>data visualization</strong> by evaluating the effectiveness of marketing campaigns across multiple channels.
