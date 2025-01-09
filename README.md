@@ -22,7 +22,7 @@
         <li><strong>Data Cleaning and Transformation:</strong> Ensuring data quality and consistency using Power Query Editor.</li>
     </ul>
 
-<h2>🛠️ Data Cleaning</h2>
+<h2>⚙️ Data Cleaning</h2>
     <ul>
         <li><strong>Removed Duplicates:</strong> Ensured data integrity by eliminating duplicate rows.</li>
         <li><strong>Column Transformation:</strong> Standardized data formats (e.g., dates, currencies) for analysis.</li>
