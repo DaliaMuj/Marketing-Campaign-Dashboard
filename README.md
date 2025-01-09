@@ -12,18 +12,28 @@
     <p>
       This project is part of my <strong>professional portfolio</strong> to showcase my ability to extract actionable insights, craft meaningful stories from data, and design intuitive dashboards that enable data-driven decision-making.
     </p>
-  <h2>🌟 Project Highlights</h2>
-    <h3>Key Features:</h3>
+  <h2>🛠️ Skills Acquired from This Project</h2>
     <ul>
-        <li><strong>Dynamic Insights:</strong> Interactive filters enable an in-depth breakdown of performance by <strong>Campaign</strong>, <strong>Channel</strong>, and <strong>Location</strong>, offering tailored perspectives on key metrics like sales, clicks, and ROI.</li>
-        <li><strong>Visual Storytelling:</strong> Clean and visually engaging design emphasizes clarity while facilitating actionable decision-making.</li>
-        <li><strong>Business Impact:</strong> Focus on ROI-driven metrics such as <strong>ROAS</strong>, <strong>CPC (Cost per Click)</strong>, and <strong>CTR (Click-Through Rate)</strong>, which align with real-world marketing goals.</li>
+        <li><strong>Power BI Proficiency:</strong> Expertise in creating interactive and visually compelling dashboards.</li>
+        <li><strong>DAX Expertise:</strong> Created custom calculations and measures to deliver complex analytics.</li>
+        <li><strong>Interactive Filtering:</strong> Enabled user-driven analysis with slicers for campaigns, channels, and locations.</li>
+        <li><strong>Marketing Analytics:</strong> Applying data-driven techniques to evaluate campaign performance and optimize marketing strategies.</li>
+        <li><strong>Data Visualization:</strong> Designed intuitive and dynamic dashboards with Power BI.</li>
+        <li><strong>Data Cleaning and Transformation:</strong> Ensuring data quality and consistency using Power Query Editor.</li>
     </ul>
 
-  <h2>📊 Dashboard Details</h2>
+<h2>🛠️ Data Cleaning</h2>
+    <ul>
+        <li><strong>Removed Duplicates:</strong> Ensured data integrity by eliminating duplicate rows.</li>
+        <li><strong>Column Transformation:</strong> Standardized data formats (e.g., dates, currencies) for analysis.</li>
+        <li><strong>Calculated Fields:</strong> Created custom metrics such as ROI, ROAS, and CPC to align with business goals.</li>
+        <li><b>Renamed and Cleaned Fields:</b> Renamed columns for clarity and ensured consistent naming conventions throughout the dataset.</li>
+    </ul>
+
+  <h2>📊 Dashboards</h2>
     <h3>1. Summary Dashboard</h3>
+    <p>This dashboard provides a comprehensive overview of marketing campaign performance through visually compelling and data-rich insights. It is designed to support decision-making by highlighting key metrics and trends in an intuitive format.</p>
     <img src="1. Summary.png" alt="Summary Report">
-    <p>The summary page highlights top-line metrics that summarize campaign performance:</p>
 
   <h4>Key Performance Indicators (KPIs)</h4>
     <ul>
@@ -39,7 +49,7 @@
     <ul>
         <li><strong>Campaign vs. Channel Insights (Pie Chart):</strong>  
             <ul>
-                <li><strong>Campaign View:</strong> Highlights the sales split by Spring, Summer and Fall campaigns, with <strong>Fall campaign contributing the largest share (43.25%)</strong>.</li>
+                <li><strong>Campaign View:</strong> Highlights the sales split by Spring, Summer, and Fall campaigns, with <strong>Fall campaign contributing the largest share (43.25%)</strong>.</li>
                 <li><strong>Channel View:</strong> Visualizes sales contributions across Instagram, Pinterest, and Facebook, where <strong>Instagram leads with 39.54% of total sales</strong>.</li>
             </ul>
         </li>
@@ -53,8 +63,8 @@
     </ul>
 
   <h3>2. Analysis Dashboard</h3>
-  <img src="Analysis.png" alt="Summary Report">
-    <p>The analysis page delves deeper into <strong>performance by locations</strong> and <strong>monthly trends</strong>.</p>
+  <p>This advanced dashboard offers a deeper dive into campaign performance, focusing on clicks, cost-effectiveness, and return metrics across multiple locations and channels.</p>
+  <img src="Analysis.png" alt="Analysis">
 
   <h4>Performance Metrics</h4>
     <ul>
@@ -88,5 +98,10 @@
             </ul>
         </li>
     </ul>
+    <h2>🚀 Final Notes</h2>
+    <p>
+        This project serves as a comprehensive demonstration of my expertise in data analysis, visualization, and reporting. By combining analytical techniques with intuitive designs, I have created a solution that transforms raw data into actionable insights, enabling stakeholders to make informed and impactful decisions. The dashboard not only captures the essence of effective data communication but also reflects my ability to align technical solutions with business objectives. I am eager to apply this expertise in a professional environment where I can address challenging problems and deliver meaningful results.
+    </p>
+
 </body>
 </html>
