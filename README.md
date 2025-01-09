@@ -7,7 +7,7 @@
     <h1>Marketing Campaign Analysis Dashboard</h1>
     <p>
       This <strong>Marketing Campaign Analysis Dashboard</strong> is a visually engaging and comprehensive report created in <strong>Power BI</strong>, based on a dataset from <strong>Kaggle</strong>. 
-      The dashboard demonstrates my expertise in <strong>business intelligence</strong>, <strong>data analysis</strong>, and <strong>data visualization</strong> by evaluating the effectiveness of marketing campaigns across multiple channels.
+      The dashboard demonstrates my expertise in <strong>data analysis</strong> and <strong>data visualization</strong> by evaluating the effectiveness of marketing campaigns across multiple channels.
     </p>
     <p>
       This project is part of my <strong>professional portfolio</strong> to showcase my ability to extract actionable insights, craft meaningful stories from data, and design intuitive dashboards that enable data-driven decision-making.
